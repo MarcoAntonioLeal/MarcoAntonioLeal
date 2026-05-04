@@ -72,9 +72,8 @@ Me chamo Marco Antonio Stanziola Leal Filho, tenho 36 anos. Atualmente, estou cu
 
 <br/><br/>
 <hr>
-<br/>
 
-### 📚
+### 📚 Cursos realizados
 
 ### 📊 Estatísticas
 
