@@ -68,3 +68,12 @@ Sou formado em Administração, mas sempre tive grande interesse pela área de t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br><br>
+---
+
+### 🚀 Projetos em destaque
+
+Aqui estão alguns projetos que representam minha evolução:
+
+◆ [projeto](LINK_DO_PROJETO) → descrição do projeto  
