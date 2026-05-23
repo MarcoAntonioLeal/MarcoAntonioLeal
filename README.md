@@ -1,9 +1,8 @@
-## Marco Leal 👋
+## Olá, sou Marco Antonio Leal 👋
 
 **`Desenvolvedor Web`**
 
-
-Me chamo Marco Antonio Stanziola Leal Filho, tenho 36 anos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI, .
+Sou formado em Administração, mas sempre tive grande interesse pela área de tecnologia. Nos últimos anos venho realizando minha transição de carreira para o desenvolvimento de sistemas e atualmente atuo como suporte ao cliente em uma empresa de ERP comercial, adquirindo experiência prática com sistemas, banco de dados, atendimento e resolução de problemas. Atualmente também estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI, buscando evoluir constantemente meus conhecimentos em programação e desenvolvimento de software.
 
 ---
 
@@ -69,19 +68,3 @@ Me chamo Marco Antonio Stanziola Leal Filho, tenho 36 anos. Atualmente, estou cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/><br/>
-<hr>
-
-### 📚 Cursos realizados
-
-### 📊 Estatísticas
-
-<p>
-
-
-</p>
-
-
-
-
