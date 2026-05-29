@@ -76,4 +76,7 @@ Sou formado em Administração, mas sempre tive grande interesse pela área de t
 
 Aqui estão alguns projetos que representam minha evolução:
 
-◆ [projeto](LINK_DO_PROJETO) → descrição do projeto  
+◆ Projeto Previsão do Clima - [LINK_DO_PROJETO](https://seuusuario.github.io/ideas-weather/)
+
+
+
