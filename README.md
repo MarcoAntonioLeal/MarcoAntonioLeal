@@ -76,6 +76,8 @@ Sou formado em Administração, mas sempre tive grande interesse pela área de t
 
 Aqui estão alguns projetos que representam minha evolução:
 
+◆ Projeto Automação Comercial - EM DESENVOLVIMENTO - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/ERP-automacao-comercial/views/)
+<br>
 ◆ Projeto Previsão do Clima - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/previsao-do-clima/)
 
 
