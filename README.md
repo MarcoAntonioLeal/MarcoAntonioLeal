@@ -76,7 +76,7 @@ Sou formado em Administração, mas sempre tive grande interesse pela área de t
 
 Aqui estão alguns projetos que representam minha evolução:
 
-◆ Projeto de Gestão e Automação Comercial - EM DESENVOLVIMENTO - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/ERP-automacao-comercial/views/)
+◆ Projeto de Gestão e Automação Comercial - EM DESENVOLVIMENTO - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/gestao-automacao-comercial/views/)
 <br>
 ◆ Projeto Lista de tarefas - [LINK_DO_PROJETO](https://lista-de-tarefas-ajkw.onrender.com)
 <br>
