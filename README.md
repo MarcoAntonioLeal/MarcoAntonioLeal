@@ -78,8 +78,11 @@ Aqui estão alguns projetos que representam minha evolução:
 
 ◆ Projeto de Gestão e Automação Comercial - EM DESENVOLVIMENTO - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/gestao-automacao-comercial/views/)
 <br>
-◆ Projeto Lista de tarefas - [LINK_DO_PROJETO](https://lista-de-tarefas-ajkw.onrender.com)
+◆ Projeto Lista de Tarefas - [LINK_DO_PROJETO](https://lista-de-tarefas-ajkw.onrender.com)
 <br>
 ◆ Projeto Previsão do Clima - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/previsao-do-clima/)
+<br>
+◆ Projeto Playlist de Músicas - [LINK_DO_PROJETO](https://github.com/MarcoAntonioLeal/playlist-de-musicas)
+
 
 
