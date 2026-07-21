@@ -69,6 +69,16 @@ Sou formado em Administração, mas sempre tive grande interesse pela área de t
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySql"
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+
 <br><br>
 ---
 
