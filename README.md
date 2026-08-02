@@ -44,15 +44,6 @@ Sou formado em Administração, mas sempre tive grande interesse pela área de t
 
 <img 
     align="left" 
-    alt="React" 
-    title="React"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
-/>
-
-<img 
-    align="left" 
     alt="NodeJS" 
     title="NodeJS"
     width="35px" 
