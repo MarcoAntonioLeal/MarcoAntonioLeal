@@ -92,6 +92,8 @@ Aqui estão alguns projetos que representam minha evolução:
 <br>
 ◆ Projeto Previsão do Clima - [LINK_DO_PROJETO](https://marcoantonioleal.github.io/previsao-do-clima/)
 <br>
+◆ Projeto Controle de Ferramentas - [LINK_DO_PROJETO](https://github.com/MarcoAntonioLeal/controle-de-ferramentas)
+<br>
 ◆ Projeto Playlist de Músicas - [LINK_DO_PROJETO](https://github.com/MarcoAntonioLeal/playlist-de-musicas#-api-de-playlists-de-m%C3%BAsicas)
 
 
